@@ -1,0 +1,14 @@
+Hello team,
+
+The extension can only be enabled from the MDFC portal. I share the steps below – 
+
+1.	From the Azure portal, open Defender for Cloud.
+2.	From Defender for Cloud's menu, open the Recommendations page.
+3.	Select the recommendation Machines should have a vulnerability assessment solution.
+4.	From the list of unhealthy machines, select the ones to receive a vulnerability assessment solution and select Remediate. Choose the recommended option, Deploy integrated vulnerability scanner, and Proceed.
+5.	You'll be asked for one further confirmation. Select Remediate.
+6.	The scanner extension will be installed on all of the selected machines within a few minutes.
+
+Hope that helps. I re-share the article shared previously for your reference - Defender for Cloud's integrated vulnerability assessment solution for Azure, hybrid, and multicloud machines | Microsoft Docs
+
+Thank you. 
